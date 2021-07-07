@@ -9,6 +9,7 @@ In the "Search for city" box, user will have to input the city name they are see
 ![image](https://user-images.githubusercontent.com/79431276/124681609-e72ed980-de96-11eb-9c55-3d55fa60caa7.png)
 
 User will press the "Search" button to get the desired results.
+<br>
 ![image](https://user-images.githubusercontent.com/79431276/124681673-09c0f280-de97-11eb-82f1-8420f36b8558.png)
 
 User is presented with results for the desired city, displaying date, city name, temperature, wind and humidity. 
@@ -16,3 +17,5 @@ User is presented with results for the desired city, displaying date, city name,
 
 User is displayed 5 day forecast.
 ![image](https://user-images.githubusercontent.com/79431276/124681827-63292180-de97-11eb-9290-979d246d746c.png)
+
+![image](https://user-images.githubusercontent.com/79431276/124681913-966bb080-de97-11eb-92f2-fba4fa8a77cd.png)
